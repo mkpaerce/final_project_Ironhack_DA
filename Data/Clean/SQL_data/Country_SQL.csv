@@ -1,0 +1,144 @@
+Country_ID;Country_Name;Region
+1;Czechia;Central and Eastern Europe
+2;Lithuania;Central and Eastern Europe
+3;Slovenia;Central and Eastern Europe
+4;Kosovo;Central and Eastern Europe
+5;Romania;Central and Eastern Europe
+6;Estonia;Central and Eastern Europe
+7;Poland;Central and Eastern Europe
+8;Serbia;Central and Eastern Europe
+9;Slovakia;Central and Eastern Europe
+10;Latvia;Central and Eastern Europe
+11;Hungary;Central and Eastern Europe
+12;Croatia;Central and Eastern Europe
+13;Bosnia and Herzegovina;Central and Eastern Europe
+14;Montenegro;Central and Eastern Europe
+15;Bulgaria;Central and Eastern Europe
+16;North Macedonia;Central and Eastern Europe
+17;Albania;Central and Eastern Europe
+18;Uzbekistan;Commonwealth of Independent States
+19;Kazakhstan;Commonwealth of Independent States
+20;Moldova;Commonwealth of Independent States
+21;Russia;Commonwealth of Independent States
+22;Kyrgyzstan;Commonwealth of Independent States
+23;Armenia;Commonwealth of Independent States
+24;Tajikistan;Commonwealth of Independent States
+25;Georgia;Commonwealth of Independent States
+26;Azerbaijan;Commonwealth of Independent States
+27;Ukraine;Commonwealth of Independent States
+28;Taiwan Province of China;East Asia
+29;Japan;East Asia
+30;South Korea;East Asia
+31;China;East Asia
+32;Mongolia;East Asia
+33;Hong Kong S.A.R. of China;East Asia
+34;Costa Rica;Latin America and Caribbean
+35;Mexico;Latin America and Caribbean
+36;Uruguay;Latin America and Caribbean
+37;El Salvador;Latin America and Caribbean
+38;Chile;Latin America and Caribbean
+39;Panama;Latin America and Caribbean
+40;Guatemala;Latin America and Caribbean
+41;Nicaragua;Latin America and Caribbean
+42;Brazil;Latin America and Caribbean
+43;Argentina;Latin America and Caribbean
+44;Paraguay;Latin America and Caribbean
+45;Honduras;Latin America and Caribbean
+46;Jamaica;Latin America and Caribbean
+47;Peru;Latin America and Caribbean
+48;Dominican Republic;Latin America and Caribbean
+49;Bolivia;Latin America and Caribbean
+50;Ecuador;Latin America and Caribbean
+51;Colombia;Latin America and Caribbean
+52;Venezuela;Latin America and Caribbean
+53;Israel;Middle East and North Africa
+54;Kuwait;Middle East and North Africa
+55;United Arab Emirates;Middle East and North Africa
+56;Saudi Arabia;Middle East and North Africa
+57;Bahrain;Middle East and North Africa
+58;Libya;Middle East and North Africa
+59;Algeria;Middle East and North Africa
+60;Iraq;Middle East and North Africa
+61;Turkiye;Middle East and North Africa
+62;Iran;Middle East and North Africa
+63;State of Palestine;Middle East and North Africa
+64;Morocco;Middle East and North Africa
+65;Tunisia;Middle East and North Africa
+66;Jordan;Middle East and North Africa
+67;Egypt;Middle East and North Africa
+68;Yemen;Middle East and North Africa
+69;Lebanon;Middle East and North Africa
+70;Australia;North America and ANZ
+71;New Zealand;North America and ANZ
+72;Canada;North America and ANZ
+73;United States;North America and ANZ
+74;Nepal;South Asia
+75;Pakistan;South Asia
+76;India;South Asia
+77;Sri Lanka;South Asia
+78;Bangladesh;South Asia
+79;Afghanistan;South Asia
+80;Singapore;Southeast Asia
+81;Philippines;Southeast Asia
+82;Vietnam;Southeast Asia
+83;Thailand;Southeast Asia
+84;Malaysia;Southeast Asia
+85;Indonesia;Southeast Asia
+86;Laos;Southeast Asia
+87;Myanmar;Southeast Asia
+88;Cambodia;Southeast Asia
+89;Mauritius;Sub-Saharan Africa
+90;South Africa;Sub-Saharan Africa
+91;Congo (Brazzaville);Sub-Saharan Africa
+92;Mozambique;Sub-Saharan Africa
+93;Gabon;Sub-Saharan Africa
+94;Ivory Coast;Sub-Saharan Africa
+95;Guinea;Sub-Saharan Africa
+96;Senegal;Sub-Saharan Africa
+97;Nigeria;Sub-Saharan Africa
+98;Cameroon;Sub-Saharan Africa
+99;Namibia;Sub-Saharan Africa
+100;Niger;Sub-Saharan Africa
+101;Burkina Faso;Sub-Saharan Africa
+102;Mauritania;Sub-Saharan Africa
+103;Gambia;Sub-Saharan Africa
+104;Chad;Sub-Saharan Africa
+105;Kenya;Sub-Saharan Africa
+106;Benin;Sub-Saharan Africa
+107;Uganda;Sub-Saharan Africa
+108;Ghana;Sub-Saharan Africa
+109;Liberia;Sub-Saharan Africa
+110;Mali;Sub-Saharan Africa
+111;Madagascar;Sub-Saharan Africa
+112;Togo;Sub-Saharan Africa
+113;Ethiopia;Sub-Saharan Africa
+114;Tanzania;Sub-Saharan Africa
+115;Comoros;Sub-Saharan Africa
+116;Zambia;Sub-Saharan Africa
+117;Eswatini;Sub-Saharan Africa
+118;Malawi;Sub-Saharan Africa
+119;Botswana;Sub-Saharan Africa
+120;Zimbabwe;Sub-Saharan Africa
+121;Congo (Kinshasa);Sub-Saharan Africa
+122;Sierra Leone;Sub-Saharan Africa
+123;Lesotho;Sub-Saharan Africa
+124;Finland;Western Europe
+125;Denmark;Western Europe
+126;Iceland;Western Europe
+127;Sweden;Western Europe
+128;Netherlands;Western Europe
+129;Norway;Western Europe
+130;Luxembourg;Western Europe
+131;Switzerland;Western Europe
+132;Austria;Western Europe
+133;Belgium;Western Europe
+134;Ireland;Western Europe
+135;United Kingdom;Western Europe
+136;Germany;Western Europe
+137;France;Western Europe
+138;Spain;Western Europe
+139;Malta;Western Europe
+140;Italy;Western Europe
+141;Cyprus;Western Europe
+142;Portugal;Western Europe
+143;Greece;Western Europe

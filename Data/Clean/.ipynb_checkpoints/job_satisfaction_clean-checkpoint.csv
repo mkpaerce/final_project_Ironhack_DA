@@ -1,0 +1,266 @@
+,Year,Country,%_Engaged
+0,2024,United States,33
+1,2024,Canada,21
+2,2024,El Salvador,41
+3,2024,Uruguay,27
+4,2024,Panama,35
+5,2024,Paraguay,24
+6,2024,Costa Rica,34
+7,2024,Argentina,24
+8,2024,Dominican Republic,33
+9,2024,Venezuela,23
+10,2024,Guatemala,31
+11,2024,Peru,22
+12,2024,Mexico,31
+13,2024,Ecuador,21
+14,2024,Brazil,31
+15,2024,Colombia,21
+16,2024,Honduras,29
+17,2024,Bolivia,18
+18,2024,Romania,36
+19,2024,Slovakia,16
+20,2024,Albania,27
+21,2024,Czechia,15
+22,2024,Iceland,26
+23,2024,Germany,15
+24,2024,North Macedonia,25
+25,2024,Finland,15
+26,2024,Latvia,24
+27,2024,Netherlands,14
+28,2024,Kosovo,24
+29,2024,Croatia,12
+30,2024,Sweden,23
+31,2024,Greece,12
+32,2024,Malta,22
+33,2024,Belgium,12
+34,2024,Denmark,21
+35,2024,Austria,10
+36,2024,Norway,21
+37,2024,Ireland,10
+38,2024,Bosnia and Herzegovina,21
+39,2024,Poland,10
+40,2024,Lithuania,20
+41,2024,Hungary,10
+42,2024,Bulgaria,19
+43,2024,Spain,9
+44,2024,Portugal,19
+45,2024,Switzerland,9
+46,2024,United Kingdom,10
+47,2024,Cyprus,18
+48,2024,Italy,8
+49,2024,Slovenia,17
+50,2024,Luxembourg,8
+51,2024,Serbia,17
+52,2024,France,7
+53,2024,Montenegro,16
+54,2024,Uzbekistan,41
+55,2024,Russia,23
+56,2024,Armenia,32
+57,2024,Ukraine,20
+58,2024,Kazakhstan,25
+59,2024,Azerbaijan,20
+60,2024,Moldova,14
+61,2024,Iraq,23
+62,2024,Jordan,19
+63,2024,Israel,18
+64,2024,Kuwait,18
+65,2024,Libya,17
+66,2024,Bahrain,16
+67,2024,Morocco,14
+68,2024,State of Palestine,13
+69,2024,Yemen,13
+70,2024,Turkiye,11
+71,2024,Algeria,11
+72,2024,Iran,11
+73,2024,Tunisia,9
+74,2024,Lebanon,8
+75,2024,Egypt,6
+76,2024,Senegal,40
+77,2024,Mali,39
+78,2024,Uganda,19
+79,2024,Liberia,33
+80,2024,Kenya,18
+81,2024,Tanzania,31
+82,2024,Zambia,17
+83,2024,Gambia,29
+84,2024,Nigeria,17
+85,2024,South Africa,29
+86,2024,Namibia,17
+87,2024,Congo (Brazzaville),28
+88,2024,Sierra Leone,17
+89,2024,Burkina Faso,27
+90,2024,Chad,17
+91,2024,Botswana,25
+92,2024,Cameroon,15
+93,2024,Guinea,23
+94,2024,Zimbabwe,14
+95,2024,Mauritania,23
+96,2024,Togo,13
+97,2024,Benin,22
+98,2024,Ghana,12
+99,2024,Mauritius,19
+100,2024,Mongolia,41
+101,2024,Taiwan Province of China,12
+102,2024,China,19
+103,2024,Japan,6
+104,2024,South Korea,13
+105,2024,Hong Kong S.A.R. of China,6
+106,2024,India,32
+107,2024,Nepal,24
+108,2024,Sri Lanka,24
+109,2024,Bangladesh,28
+110,2024,Afghanistan,12
+111,2024,Pakistan,7
+112,2024,Philippines,35
+113,2024,Thailand,29
+114,2024,Laos,27
+115,2024,Indonesia,25
+116,2024,Malaysia,23
+117,2024,Myanmar,20
+118,2024,Cambodia,16
+119,2024,Vietnam,16
+120,2024,Singapore,13
+121,2024,New Zealand,22
+122,2024,Australia,21
+123,2023,United States,34
+124,2023,Canada,21
+125,2023,El Salvador,37
+126,2023,Uruguay,26
+127,2023,Panama,34
+128,2023,Paraguay,22
+129,2023,Costa Rica,31
+130,2023,Argentina,21
+131,2023,Dominican Republic,30
+132,2023,Venezuela,22
+133,2023,Guatemala,31
+134,2023,Peru,19
+135,2023,Mexico,27
+136,2023,Ecuador,21
+137,2023,Brazil,28
+138,2023,Colombia,18
+139,2023,Honduras,34
+140,2023,Bolivia,18
+141,2023,Romania,34
+142,2023,Slovakia,18
+143,2023,Albania,26
+144,2023,Czechia,15
+145,2023,Iceland,26
+146,2023,Germany,16
+147,2023,North Macedonia,29
+148,2023,Finland,15
+149,2023,Latvia,24
+150,2023,Netherlands,14
+151,2023,Kosovo,24
+152,2023,Croatia,15
+153,2023,Sweden,22
+154,2023,Greece,12
+155,2023,Malta,20
+156,2023,Belgium,11
+157,2023,Denmark,20
+158,2023,Austria,10
+159,2023,Norway,20
+160,2023,Ireland,11
+161,2023,Bosnia and Herzegovina,22
+162,2023,Poland,14
+163,2023,Lithuania,25
+164,2023,Hungary,10
+165,2023,Bulgaria,22
+166,2023,Spain,10
+167,2023,Portugal,20
+168,2023,Switzerland,11
+169,2023,United Kingdom,10
+170,2023,Cyprus,19
+171,2023,Italy,4
+172,2023,Slovenia,16
+173,2023,Luxembourg,10
+174,2023,Serbia,18
+175,2023,France,7
+176,2023,Montenegro,20
+177,2023,Uzbekistan,34
+178,2023,Russia,22
+179,2023,Armenia,32
+180,2023,Ukraine,23
+181,2023,Kazakhstan,27
+182,2023,Azerbaijan,20
+183,2023,Moldova,20
+184,2023,Iraq,26
+185,2023,Jordan,17
+186,2023,Israel,19
+187,2023,Kuwait,17
+188,2023,Libya,12
+189,2023,Bahrain,19
+190,2023,Morocco,14
+191,2023,State of Palestine,13
+192,2023,Yemen,13
+193,2023,Turkiye,13
+194,2023,Algeria,8
+195,2023,Iran,9
+196,2023,Tunisia,11
+197,2023,Lebanon,10
+198,2023,Egypt,12
+199,2023,Senegal,41
+200,2023,Mali,47
+201,2023,Uganda,19
+202,2023,Liberia,33
+203,2023,Kenya,17
+204,2023,Tanzania,24
+205,2023,Zambia,18
+206,2023,Gambia,29
+207,2023,Nigeria,13
+208,2023,South Africa,26
+209,2023,Namibia,18
+210,2023,Congo (Brazzaville),30
+211,2023,Sierra Leone,20
+212,2023,Burkina Faso,27
+213,2023,Chad,18
+214,2023,Botswana,25
+215,2023,Cameroon,17
+216,2023,Guinea,19
+217,2023,Zimbabwe,14
+218,2023,Mauritania,23
+219,2023,Togo,14
+220,2023,Benin,22
+221,2023,Ghana,12
+222,2023,Mauritius,19
+223,2023,Mongolia,38
+224,2023,Taiwan Province of China,11
+225,2023,China,17
+226,2023,Japan,5
+227,2023,South Korea,11
+228,2023,Hong Kong S.A.R. of China,7
+229,2023,India,33
+230,2023,Nepal,25
+231,2023,Sri Lanka,26
+232,2023,Bangladesh,34
+233,2023,Afghanistan,12
+234,2023,Pakistan,9
+235,2023,Philippines,30
+236,2023,Thailand,25
+237,2023,Laos,24
+238,2023,Indonesia,24
+239,2023,Malaysia,22
+240,2023,Myanmar,21
+242,2023,Cambodia,21
+243,2023,Singapore,13
+244,2023,New Zealand,21
+245,2023,Australia,19
+246,2024,Estonia,25
+247,2023,Estonia,26
+248,2024,United Arab Emirates,29
+249,2023,United Arab Emirates,27
+250,2024,Chile,29
+251,2023,Chile,27
+252,2024,Saudi Arabia,28
+253,2023,Saudi Arabia,24
+254,2024,Gabon,21
+255,2023,Gabon,19
+256,2024,Ivory Coast,20
+257,2023,Ivory Coast,20
+258,2024,Madagascar,9
+259,2023,Madagascar,9
+260,2024,Malawi,20
+261,2023,Malawi,20
+262,2024,Niger,19
+263,2023,Niger,19
+264,2024,Nicaragua,28
+265,2023,Nicaragua,31
