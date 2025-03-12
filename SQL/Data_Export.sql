@@ -22,3 +22,5 @@ LEFT JOIN final_project.Job_Satisfaction AS j
 LEFT JOIN final_project.Work_Hours AS w
     ON c.Country_ID = w.Country_ID AND h.Year = w.Year;
     
+
+    
